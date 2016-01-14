@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>new year</title>
+<meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width" />
+
+<link rel="stylesheet" href="cel_fps_new_year.css" type="text/css" />
+
+<script type="text/javascript" src="b4w.min.js"></script>
+
+<script type="text/javascript" src="cel_fps_new_year.js"></script>
+
+</head>
+
+<body>
+
+<div id ="loading"></div>
+
+<div id="main_canvas_container"></div>
+<div id="crossbar"></div>
+      
+    
+</body>
+
+</html>

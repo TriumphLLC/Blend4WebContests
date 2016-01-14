@@ -1,0 +1,68 @@
+body {
+    background-color: #6E7B8B;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+div#main_canvas_container {
+	background-color: #778899;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+   z-index: auto;
+   
+}
+div#second_canvas_container {
+	background-color: #778899;
+    position: absolute;
+    left: 40px;
+    bottom: 40px;
+    width: 25%;
+    height: 30%;
+   z-index: auto;
+    border: solid;
+}
+div#InfoBox{
+	position: absolute;
+	right: 0px;
+    top: 0px;
+    width: 35%;
+	height: 100%;	
+	background-color: #4F4F4F;
+	color:#00FFFF;
+	padding-left: 20px;
+	padding-top: 20px
+	
+	}
+	div#InfoBoxText{
+		position: absolute;
+	right: 15px;
+    top: 30px;
+    width: 90%;
+	height: 30%;	
+	background-color: #4F4F4F;
+	
+	}
+	div#ButtonsDiv{
+		position: inherit;
+	right: 15px;
+    bottom: 30px;
+    width: 90%;
+	height: 30%;	
+	background-color: #9AC0CD;
+	padding-left: 10px;
+	padding-top: 10px
+	
+	}
+	#InputTable{
+	table-layout: fixed;
+     border-collapse: collapse ;	 
+     border-color: black; 
+	border:1 ;
+	}
+	.InputClass{
+	border: 1px solid;
+	}
