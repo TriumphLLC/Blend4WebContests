@@ -1,0 +1,26 @@
+[info]
+author = 
+name = smartphone_banner
+title = Smartphone Banner
+
+[paths]
+assets_dirs = apps_dev/smartphone_banner;
+blend_dirs = apps_dev/smartphone_banner;
+blender_exec = blender
+build_dir = apps_dev/smartphone_banner
+deploy_dir = 
+
+[compile]
+apps = 
+css_ignore = 
+engine_type = update
+js_ignore = 
+optimization = simple
+use_physics = 
+use_smaa_textures = 
+version = 
+
+[deploy]
+assets_path_prefix = 
+override = 
+

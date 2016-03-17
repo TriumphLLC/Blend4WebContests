@@ -1,0 +1,30 @@
+[info]
+author = Den
+name = blendfon
+title = Blendfon
+icon = 
+
+[paths]
+assets_dirs = apps_dev/blendfon;
+blend_dirs = apps_dev/blendfon;
+blender_exec = blender
+build_dir = apps_dev/blendfon
+deploy_dir = 
+
+[compile]
+apps = 
+css_ignore = 
+engine_type = webplayer_html
+js_ignore = 
+optimization = simple
+use_physics = 
+use_smaa_textures = 
+version = 
+
+[deploy]
+assets_path_prefix = 
+override = 
+
+[url_params]
+compressed_textures = 
+

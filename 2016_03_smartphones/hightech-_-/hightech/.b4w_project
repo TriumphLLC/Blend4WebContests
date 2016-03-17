@@ -1,0 +1,27 @@
+[info]
+author = 
+name = hightech
+title = hightech
+icon = 
+
+[paths]
+assets_dirs = apps_dev/hightech;
+blend_dirs = apps_dev/hightech;
+blender_exec = blender
+build_dir = apps_dev/hightech
+deploy_dir = 
+
+[compile]
+apps = 
+css_ignore = 
+engine_type = update
+js_ignore = 
+optimization = simple
+use_physics = 
+use_smaa_textures = 
+version = 
+
+[deploy]
+assets_path_prefix = 
+override = 
+
