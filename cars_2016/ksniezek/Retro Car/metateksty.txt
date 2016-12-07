@@ -1,0 +1,12 @@
+    RCAR Mark II Special Drop-Head Coupe, model year 1935, version for Europe North Europe
+    
+    4-door convertible body type
+    Rear-Wheel Drive manual 4-speed gearbox
+    Petrol engine with displacement: 4500 cm3 / 260 cui
+    Characteristic dimensions: outside length: mm / in, wheelbase: 3048 mm / 120 in
+    Reference weights: 1200 kg
+    Top speed: 150 km/h (93 mph);
+    Accelerations: 0- 60 mph; 0- 100 km/h; 1/4 mile drag time (402 m) 
+    Fuel consumption and mileage: 20 l/100 km
+
+

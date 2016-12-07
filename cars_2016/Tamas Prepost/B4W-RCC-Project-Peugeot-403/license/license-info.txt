@@ -1,0 +1,44 @@
+Blend4WEB Retro Car Contest - Peugeot 403
+pixelight.hu (under construction) - Tamas Prepost - tamas.prepost@gmail.com
+
+--------------------
+
+B4W Contest Rules
+
+CC - https://creativecommons.org/licenses/by/4.0/
+You are free to:
+
+Share — copy and redistribute the material in any medium or format
+Adapt — remix, transform, and build upon the material
+for any purpose, even commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+Under the following terms:
+
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+--------------------
+
+"i" button
+Simple elegance of France in the 1960's. Average vehicle, but this is an iconic car in my favorite detective TV series.
+You know Columbo? Most parts are clickable, find the evidences, click the right sequence, discover it secrets! Good luck!
+
+--------------------
+
+The project has two parts:
+
+An animated car, and a little game.
+
+1.
+You can change the roof type, turn up the lights (only one indexlight works in the same time), open/close the doors, engine hood, windows, turn the steering wheel etc.
+
+2.
+A little game inspired by my fav detective tv series Columbo. Use "?" button. Find his cigar, and after that click on the evidences in the right sequence (appearance in the series) - there is a right/wrong feedback.
+The cigar is front of the fr seat, and the right sequence is Degas pastel, blueprint, mirrored photo, Irish whiskey.
+
+SPOILER
+If you find the right sequence, the car changes to Columbo's car. Scratches, dust, his license plate... and the front light not work properly.
+SPOILER END
+
+You can reset (not everything) the scene with the reset button.
